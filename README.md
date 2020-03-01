@@ -1,2 +1,0 @@
-# Sharon-Palacios
-Website

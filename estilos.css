@@ -1,0 +1,59 @@
+body {
+font-family: 'Allerta', sans-serif;
+margin: 0;
+}
+
+.main {
+width: 800px;
+margin: auto;
+position: relative;
+}
+
+
+
+ul.Menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #87CEFA;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+h5 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-bottom: 0;
+  margin-top: 70px;
+}
+
+
+ul.Contacto {
+}
+
+section.HVolcanMasaya {
+  background: #ffe6e6;
+}
+
+section.HMiradorCatarina {
+  background: #FFE4B5;
+}
+
+section.HLagunaDeApoyo {
+  background: #90EE90;
+}
+
+section.HMercadoArtesanias {
+  background: #E0FFFF ;
+}
