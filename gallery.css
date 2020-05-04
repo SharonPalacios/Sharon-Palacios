@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper {
+	width: 1366;
+
+	}
+
+#wrapper header{
+	background-image:url("Piscina2.jpg");
+	width: 1366;
+	height: 555px;
+	margin-bottom: 100px;
+}
+
+#wrapper header img{
+  position: absolute;
+  left: 56px;
+  top: 24px;
+  width: 381px;
+  height: 217px;
+}
+
+#menu{
+background-color: rgb(255, 237, 0);
+  position: absolute;
+  left: 484px;
+  top: 454px;
+  width: 865px;
+  height: 101px;
+}
+
+#menu ul li{
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 15px;
+	
+}
+
+#menu ul li a{
+	text-decoration: none;
+	 font-family: "Myriad Pro";
+	  color: rgb(33, 75, 107);
+	font-size: 30px;
+	padding: 10px;
+	
+	}
+#menu ul li a:hover{
+	color: #ffffff;
+}
+
+/*CONTENIDO*/
+.carousel-control-prev{
+background-color: black;
+}
+
+.carousel-control-next{
+	background-color: black;
+}
+.carousel-indicators{
+	background-color: black;
+	opacity: 30%;
+}
+#footer{ 
+  background-color: rgb(134, 192, 106);
+  position: absolute;
+  left: 0px;
+  top: 1250px;
+  width: 1366px;
+  height: 284px;
+}
+
+#logo img{
+  position: absolute;
+  top: 40px;
+  left: 60px;
+  width: 371px;
+  height: 200px;
+}
+
+#footer h6{
+ font-size: 28px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.75;
+  text-align: center;
+  position: absolute;
+	top: 60px;
+  left: 687px
+}
+
+#footer p{
+  font-size: 26px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 636px;
+	top: 120px;
+}
+
+#footer figure{
+	display: inline-block;
+}
+
+#facebook{
+	position: absolute;
+	top: 200px;
+	left: 1050px
+}
+
+#twitter{
+	position: absolute;
+	top: 200px;
+	left: 1150px
+}
+
+#instagram{
+	position: absolute;
+	top: 200px;
+	left: 1250px
+}
+

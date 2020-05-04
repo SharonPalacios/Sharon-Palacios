@@ -1,0 +1,187 @@
+/* CSS Document */
+
+#wrapper {
+	width: 1366;
+	height: 1550px; 
+	}
+#wrapper header{
+	background-image:url("portada.jpg");
+	width: 1366;
+	height: 555px;
+}
+
+#wrapper header img{
+  position: absolute;
+  left: 56px;
+  top: 24px;
+  width: 381px;
+  height: 217px;
+}
+
+#menu{
+background-color: rgb(255, 237, 0);
+  position: absolute;
+  left: 484px;
+  top: 454px;
+  width: 865px;
+  height: 101px;
+}
+
+#menu ul li{
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 15px;
+	
+}
+
+#menu ul li a{
+	text-decoration: none;
+	 font-family: "Myriad Pro";
+	  color: rgb(33, 75, 107);
+	font-size: 30px;
+	padding: 10px;
+	
+	}
+#menu ul li a:hover{
+	color: #ffffff;
+}
+
+/*CONTENIDO*/
+
+#contenido {
+	  position: absolute;
+  
+  top: 604px;
+  width: 1330px;
+  height: 500px;
+}
+
+#contenido img{
+  position: absolute;
+  left: 14px;
+  width: 732px;
+  height: 489px;
+}
+
+#texto{
+	 background-color: rgb(33, 75, 107);
+  position: absolute;
+  left: 755px;
+  width: 581px;
+  height: 489px;
+}
+
+#texto p{
+	  font-size: 20px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  text-align: left;
+  position: absolute;
+  padding: 20px
+}
+
+#info{
+  background-color: rgb(58, 170, 53);
+  position: absolute;
+  left: 14px;
+  top: 1104px;
+  width: 1325px;
+  height: 503px;
+  z-index: 17;
+}
+
+
+#info .detalles{
+	display: inline-block;
+	width: 200px;
+	padding-left: 50px;
+	padding-top: 20px
+
+}
+
+#info .detalles img{
+	padding: 10px
+	
+}
+
+#info .detalles h6{
+	padding-left: -50;
+  font-size: 30px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  text-align: center
+	
+}
+
+#info .detalles p{
+	 font-size: 15px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align:center
+	
+}
+
+
+
+#footer{ 
+  background-color: rgb(134, 192, 106);
+  position: absolute;
+  left: 0px;
+  top: 1651px;
+  width: 1366px;
+  height: 284px;
+}
+
+#logo img{
+  position: absolute;
+  top: 40px;
+  left: 60px;
+  width: 371px;
+  height: 200px;
+}
+
+#footer h6{
+ font-size: 28px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.75;
+  text-align: center;
+  position: absolute;
+  left: 687px
+}
+
+#footer p{
+  font-size: 26px;
+  font-family: "Arial";
+  color: rgb(255, 255, 255);
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 636px;
+	top: 120px;
+}
+
+#footer figure{
+	display: inline-block;
+}
+
+#facebook{
+	position: absolute;
+	top: 200px;
+	left: 1050px
+}
+
+#twitter{
+	position: absolute;
+	top: 200px;
+	left: 1150px
+}
+
+#instagram{
+	position: absolute;
+	top: 200px;
+	left: 1250px
+}
