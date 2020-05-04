@@ -1,12 +1,13 @@
 /* CSS Document */
 
 #wrapper {
-	width: 1366;
+	width: 1366px;
 	height: 1550px; 
 	}
 #wrapper header{
 	background-image:url("portada.jpg");
-	width: 1366;
+	background-repeat: no-repeat;
+	width: 1366px;
 	height: 555px;
 }
 
