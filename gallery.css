@@ -1,13 +1,14 @@
 @charset "utf-8";
 /* CSS Document */
 #wrapper {
-	width: 1366;
+	width: 1366px;
 
 	}
 
 #wrapper header{
 	background-image:url("Piscina2.jpg");
-	width: 1366;
+	background-repeat: no-repeat;
+	width: 1366px;
 	height: 555px;
 	margin-bottom: 100px;
 }
