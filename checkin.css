@@ -1,14 +1,15 @@
 @charset "utf-8";
 /* CSS Document */
 #wrapper {
-	width: 1366;
+	width: 1366px;
 	height: 1550px; 
     background-color: rgb(175, 211, 154);
 	}
 
 #wrapper header{
 	background-image:url("portada.png");
-	width: 1366;
+	background-repeat: no-repeat;
+	width: 1366px;
 	height: 555px;
 }
 
